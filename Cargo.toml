@@ -1,0 +1,6 @@
+[package]
+name = "rpncalc"
+version = "0.1.0"
+authors = ["Justin Evankovich <jaevanko@mtu.edu>"]
+
+[dependencies]
